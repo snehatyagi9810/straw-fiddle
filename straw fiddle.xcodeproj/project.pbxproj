@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		193E804D2A690E4800368BF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193E804C2A690E4800368BF4 /* AppDelegate.swift */; };
 		193E804F2A690E4800368BF4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193E804E2A690E4800368BF4 /* SceneDelegate.swift */; };
-		193E80512A690E4800368BF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193E80502A690E4800368BF4 /* ViewController.swift */; };
-		193E80542A690E4800368BF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193E80522A690E4800368BF4 /* Main.storyboard */; };
 		193E80562A690E4900368BF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 193E80552A690E4900368BF4 /* Assets.xcassets */; };
-		193E80592A690E4900368BF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193E80572A690E4900368BF4 /* LaunchScreen.storyboard */; };
+		193E80682A690ED900368BF4 /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80612A690ED800368BF4 /* F.wav */; };
+		193E80692A690ED900368BF4 /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80622A690ED800368BF4 /* G.wav */; };
+		193E806A2A690ED900368BF4 /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80632A690ED800368BF4 /* B.wav */; };
+		193E806B2A690ED900368BF4 /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80642A690ED800368BF4 /* E.wav */; };
+		193E806C2A690ED900368BF4 /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80652A690ED900368BF4 /* D.wav */; };
+		193E806D2A690ED900368BF4 /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80662A690ED900368BF4 /* A.wav */; };
+		193E806E2A690ED900368BF4 /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193E80672A690ED900368BF4 /* C.wav */; };
+		193E80702A690EFF00368BF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193E806F2A690EFF00368BF4 /* Main.storyboard */; };
+		193E80722A690F2300368BF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193E80712A690F2300368BF4 /* ViewController.swift */; };
+		193E80742A69114700368BF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193E80732A69114700368BF4 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		193E80492A690E4800368BF4 /* straw fiddle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "straw fiddle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		193E804C2A690E4800368BF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		193E804E2A690E4800368BF4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		193E80502A690E4800368BF4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		193E80532A690E4800368BF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		193E80552A690E4900368BF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		193E80582A690E4900368BF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		193E805A2A690E4900368BF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		193E80612A690ED800368BF4 /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		193E80622A690ED800368BF4 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		193E80632A690ED800368BF4 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		193E80642A690ED800368BF4 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		193E80652A690ED900368BF4 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		193E80662A690ED900368BF4 /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		193E80672A690ED900368BF4 /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		193E806F2A690EFF00368BF4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		193E80712A690F2300368BF4 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		193E80732A69114700368BF4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +72,28 @@
 			children = (
 				193E804C2A690E4800368BF4 /* AppDelegate.swift */,
 				193E804E2A690E4800368BF4 /* SceneDelegate.swift */,
-				193E80502A690E4800368BF4 /* ViewController.swift */,
-				193E80522A690E4800368BF4 /* Main.storyboard */,
+				193E80712A690F2300368BF4 /* ViewController.swift */,
+				193E806F2A690EFF00368BF4 /* Main.storyboard */,
 				193E80552A690E4900368BF4 /* Assets.xcassets */,
-				193E80572A690E4900368BF4 /* LaunchScreen.storyboard */,
+				193E80732A69114700368BF4 /* LaunchScreen.storyboard */,
 				193E805A2A690E4900368BF4 /* Info.plist */,
+				193E80602A690EB000368BF4 /* Sounds */,
 			);
 			path = "straw fiddle";
+			sourceTree = "<group>";
+		};
+		193E80602A690EB000368BF4 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				193E80662A690ED900368BF4 /* A.wav */,
+				193E80632A690ED800368BF4 /* B.wav */,
+				193E80672A690ED900368BF4 /* C.wav */,
+				193E80652A690ED900368BF4 /* D.wav */,
+				193E80642A690ED800368BF4 /* E.wav */,
+				193E80612A690ED800368BF4 /* F.wav */,
+				193E80622A690ED800368BF4 /* G.wav */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +154,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				193E80592A690E4900368BF4 /* LaunchScreen.storyboard in Resources */,
+				193E806D2A690ED900368BF4 /* A.wav in Resources */,
+				193E80702A690EFF00368BF4 /* Main.storyboard in Resources */,
+				193E80692A690ED900368BF4 /* G.wav in Resources */,
+				193E80742A69114700368BF4 /* LaunchScreen.storyboard in Resources */,
 				193E80562A690E4900368BF4 /* Assets.xcassets in Resources */,
-				193E80542A690E4800368BF4 /* Main.storyboard in Resources */,
+				193E806E2A690ED900368BF4 /* C.wav in Resources */,
+				193E806A2A690ED900368BF4 /* B.wav in Resources */,
+				193E806C2A690ED900368BF4 /* D.wav in Resources */,
+				193E806B2A690ED900368BF4 /* E.wav in Resources */,
+				193E80682A690ED900368BF4 /* F.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,32 +174,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				193E80512A690E4800368BF4 /* ViewController.swift in Sources */,
+				193E80722A690F2300368BF4 /* ViewController.swift in Sources */,
 				193E804D2A690E4800368BF4 /* AppDelegate.swift in Sources */,
 				193E804F2A690E4800368BF4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		193E80522A690E4800368BF4 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				193E80532A690E4800368BF4 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		193E80572A690E4900368BF4 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				193E80582A690E4900368BF4 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		193E805B2A690E4900368BF4 /* Debug */ = {
